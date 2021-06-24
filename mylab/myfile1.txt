@@ -1,0 +1,125 @@
+
+   94  pwd
+   95  ls
+   96  cd ~
+   97  pwd
+   98  cd Dev
+   99  echo "Hello Terminal" >myFile.txt
+  100  ls
+  101  cat
+  102  pwd
+  103  ls
+  104  cd ~
+  105  pwd
+  106  cd Dev
+  107  echo "Hello Terminal" >myFile.txt
+  108  ls
+  109  cat myFile.txt Nisha
+  110  cat myFile.txt my-file1
+  111  clear
+  112  pwd
+  113  ls
+  114  cd ~
+  115  cd Dev
+  116  echo "Hello Terminal" >myFile.txt
+  117  ls
+  118  cat myFile.txt
+  119  cr
+  120  mv myFile.txt my-file1
+  121  ls
+  122  STDERR
+  123  grep
+  124  grep Hello myFile
+  125  cd Dev
+  126  touch myfile1
+  127  ls
+  128  touch myfile2
+  129  ls
+  130  touch myfile3 myfile4 myfile5
+  131  ls -lT
+  132  vim
+  133  cd Dev
+  134  touch myfile1
+  135  ls
+  136  touch myfile5
+  137  ls -lT
+  138  vim
+  139  cd Dev
+  140  touch myfile1
+  141  ls
+  142  ls -lT
+  143  vim
+  144  cd Dev
+  145  touch myfile1
+  146  ls
+  147  ls -lT
+  148  vim
+  149  vim myfile6
+  150  a
+  151  "Hello Editor"
+  152  cd Dev
+  153  touch myfile1
+  154  ls
+  155  ls -lT
+  156  vim
+  157  ls
+  158  vim myfile6
+  159  a
+  160  clear
+  161  cd Dev
+  162  clear
+  163  cd Dev
+  164  pwd
+  165  touch myfile1
+  166  ls
+  167  ls -lT
+  168  vim
+  169  vim myfile6
+  170  mkdir 
+  171  mkdir dir1
+  172  mkdir dir2
+  173  ls
+  174  pwd
+  175  mkdir /Users/nisha/Dev/dir2/insidedir2
+  176  cp
+  177  mv insidedir2 newdir2
+  178  ls
+  179  mv insidedir2 .myFile
+  180  ls
+  181  cd
+  182  ls
+  183  man ls
+  184  man cp
+  185  mv
+  186  man mv
+  187  mkdir tempdir
+  188  cat >file1 file2 file3
+  189  rm
+  190  rm -i
+  191  rmdir
+  192  echo "Hello" >-toughFile
+  193  rm -R
+  194  find / -file1 core
+  195  STDERR /dev/null
+  196  STDOUT corefiles.log
+  197  find / -Nish core
+  198  find / -name core
+  199  /dev/null
+  200  >
+  201  2>
+  202  /dev/null
+  203  STDERR /dev/null
+  204  STDERR 2> /dev/null
+  205  STDOUT 2> corefiles.log
+  206  grep -i lib corefiles.log
+  207  > corefiles.log
+  208  find / -name core > corefiles.log | grep -i lib corefiles.log
+  209  find | grep
+  210  find | grep&
+  211  python -m SimpleHTTPServer
+  212  jobs
+  213  fg
+  214  bg
+  215  fg
+  216  history1>myfile.txt
+  217  history 1> myfile.txt
